@@ -1,0 +1,40 @@
+.experience-accord {
+  margin: 50px;
+  border-radius: 5px;
+  background-color: transparent;
+  transition: all 0.2s ease-in-out;
+}
+
+.experience-container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.experience-cards {
+  margin: 0 auto;
+}
+
+@media only screen and (max-width: 550px) {
+  .experience-cards {
+    overflow: hidden;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+.accord-panel {
+  font-family: "Google Sans Regular";
+}
+
+.accord {
+  background-color: black;
+}
+
+@media (max-width: 768px) {
+  .experience-accord {
+    margin: 20px;
+  }
+}

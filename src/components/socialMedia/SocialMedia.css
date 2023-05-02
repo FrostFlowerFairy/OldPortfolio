@@ -1,0 +1,193 @@
+.social-media-div {
+  display: flex;
+  gap: 5px;
+}
+
+.contact-social-media-div {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-icon {
+  height: 40px;
+  width: 40px;
+  border-radius: 40px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-icon svg,
+.social-icon img {
+  border-radius: 40px;
+  display: inline-block;
+  height: max-content;
+  position: relative;
+  padding: 5px;
+  text-align: center;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.linkedin {
+  background-color: #0e76a8;
+}
+
+.linkedin svg {
+  background-color: #0e76a8;
+  transition: all 0.2s ease-in-out;
+}
+
+.linkedin svg:hover {
+  box-shadow: 0 5px 15px #0e76a8;
+}
+
+.github svg {
+  background-color: #333;
+  transition: all 0.2s ease-in-out;
+}
+
+.github svg:hover {
+  box-shadow: 0 5px 15px #333;
+}
+
+.google .mail-img {
+  position: absolute;
+  z-index: 2;
+  background-color: #ff7979;
+  transition: all 0.2s ease-in-out;
+}
+
+.google .mail-gif {
+  background-color: #ff7979;
+  transition: all 0.2s ease-in-out;
+}
+
+.google:hover {
+  box-shadow: 0 5px 15px #ff6c6c;
+}
+
+.google .mail-img:hover {
+  opacity: 0;
+}
+
+.google-icon {
+  width: 40px;
+  height: auto;
+}
+
+.twitter svg {
+  background-color: #1da1f2;
+  transition: all 0.2s ease-in-out;
+}
+
+.twitter svg:hover {
+  box-shadow: 0 5px 15px #1da1f2;
+}
+
+/*
+---------------------------
+   LINKEDIN MICROANIMATION
+---------------------------
+*/
+.linkedin-icon {
+  width: 35px;
+  height: 40px !important;
+  fill: white;
+}
+
+.linkedin-icon:hover .linkedin-icon > rect {
+  animation: rect-up 0.3s linear infinite;
+}
+
+@keyframes rect-up {
+  50% {
+    y: 10px;
+    height: 11px;
+  }
+
+  0% {
+    y: 13px;
+    height: 8px;
+  }
+}
+
+.linkedin:hover .linkedin-icon > circle {
+  animation: bounce 0.4s linear infinite;
+}
+
+@keyframes bounce {
+  75% {
+    cy: 8px;
+  }
+
+  50% {
+    cy: 4px;
+  }
+
+  0% {
+    cy: 4px;
+  }
+}
+
+/*
+---------------------------
+   TWITTER MICROANIMATION
+---------------------------
+*/
+.twitter-icon {
+  width: 40px;
+}
+
+.twitter-icon:hover #wing1 {
+  transform-origin: center;
+  animation: flap 0.4s ease-out infinite alternate;
+}
+
+.twitter-icon:hover #wing2 {
+  transform-origin: center;
+  animation: flap 0.4s ease-in infinite alternate;
+}
+
+@keyframes flap {
+  50% {
+    transform: scaleX(-1) rotate(-45deg) translate(-40px, -40px);
+  }
+}
+
+/*
+--------------------------
+   GITHUB MICROANIMATION
+--------------------------
+*/
+.github-icon {
+  width: 40px;
+  fill: #ffffff;
+}
+
+.github-icon:hover #arm {
+  transform-origin: bottom right;
+  animation: moveArm 1s infinite alternate;
+}
+
+@keyframes moveArm {
+  0% {
+    transform: rotate(10deg);
+  }
+
+  100% {
+    transform: rotate(-10deg);
+  }
+}
+
+/* Media Query */
+@media (max-width: 768px) {
+  .social-media-div {
+    justify-content: center;
+    align-items: center;
+  }
+}

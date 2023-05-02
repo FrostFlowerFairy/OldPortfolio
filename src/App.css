@@ -1,0 +1,8 @@
+body {
+  overflow-x: hidden;
+}
+
+::selection {
+  background-color: #e3405f;
+  color: white;
+}
