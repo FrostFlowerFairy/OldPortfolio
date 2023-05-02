@@ -707,7 +707,7 @@ const projects = {
       id: "project-4",
       name: "Portfolio",
       url: "",
-      repoUrl: "https://github.com/TyreseSong/full-stack-portfolio",
+      repoUrl: "https://github.com/TyreseSong/TyreseSong_Full-Stack-Portfolio",
       description: "You are watching it right now 😉.",
       languages: [
         {
