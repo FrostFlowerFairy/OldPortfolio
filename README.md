@@ -19,7 +19,7 @@
     <a href="#Contact">Author</a>&#10023;
   </p>
   
-  <h3 align="center"><a href="https://inspiring-panda-52a958.netlify.app/"><strong>« Click Here To View My Portfolio »</strong></a></h3>
+  <h3 align="center"><a href="https://inspiring-panda-52a958.netlify.app/"><strong>« Click Here »</strong></a></h3>
 
 ```shell
 $ git clone https://github.com/TyreseSong/full-stack-portfolio.git
