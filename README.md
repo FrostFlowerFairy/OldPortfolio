@@ -18,8 +18,9 @@
     <a href="https://github.com/TyreseSong/portfolio/issues">Report Bug</a>   &#10023;
     <a href="#Contact">Author</a>&#10023;
   </p>
-  
-  <h3 align="center"><a href="https://inspiring-panda-52a958.netlify.app/"><strong>« Click Here »</strong></a></h3>
+
+  <h3 align="center"><a href="https://inspiring-panda-52a958.netlify.app/"><strong>« View My Portfolio Here »</strong></a></h3>
+
 
 ```shell
 $ git clone https://github.com/TyreseSong/full-stack-portfolio.git
