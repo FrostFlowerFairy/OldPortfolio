@@ -9,10 +9,10 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hi",
-  title2: " I'm Tyrese Sòng (Sòng Nán Hǔ)",
-  logo_name: "Tyrese Song ( Song Nan Hu )",
+  title2: " I'm Tyrese Song",
+  logo_name: "Tyrese Song",
   nickname: "Tyrese",
-  full_name: "Tyrese Sòng (Sòng Nán Hǔ)",
+  full_name: "Tyrese Song",
   subTitle1: "Full Stack Developer.",
   subTitle2: "Life Long Learner.",
   subTitle: "Full Stack Developer, Life Long Learner.",
@@ -35,11 +35,7 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Developing highly interactive user interfaces and backend for web applications",
-        "⚡ Building fast and responsive website front end using React, Vue and Angular",
-        "⚡ Creating application backend in Node, Express, MongoDB and Rest API",
-        "⚡ Integration of third party services such as Firebase, Vercel etc.",
-        "⚡ Make SEO(search engine optimized) friendly websites",
+        "⚡ Having over 7 years of experience delivering more than 50+ web apps, which resulted in a 30% increase in revenue, expertise in leading and mentoring teams, front-end and back-end development, database design, and project management is possessed. ⚡",
       ],
       softwareSkills: [
         {
@@ -375,43 +371,43 @@ const degrees = {
       subtitle: "Bachelor's in Computer Science",
       logo_path: "hku-logo.png",
       alt_name: "The University of Hong Kong (HKU)",
-      duration: "2018 - 2021",
+      duration: "2011 - 2015",
       descriptions: [
         "⚡ I have taken varity of courses related to Computer Programming and Data Structures, Algorithms, Human-Computer Interaction and User Experience Design, Software Engineering and Development Methodologies, and etc.",
         "⚡ Apart from this, I have done courses on Database Systems and Data Management, Computer Networks and Distributed Systems, Artificial Intelligence and Machine Leaning",
       ],
       website_link: "https://hku.hk/",
     },
-    {
-      title: "The University of Hong Kong (HKU), Hong Kong",
-      subtitle: "Certificate in Full Stack Web Development",
-      logo_path: "hku-logo.png",
-      alt_name: "The University of Hong Kong (HKU)",
-      duration: "2021 - 2022",
-      descriptions: [
-        "⚡ HTML, CSS, and JavaScript",
-        "⚡ Front-end web development frameworks such as React and Angular",
-        "⚡ Back-end web development frameworks such as Node.js and Express",
-        "⚡ Database management using MongoDB and MySQL",
-        "⚡ Server-side scripting using PHP and Python",
-        "⚡ Web application security and authentication",
-        "⚡ Agile software development methodologies",
-        "⚡ Project management and collaboration tools",
-      ],
-      website_link: "https://hku.hk/",
-    },
-    {
-      title: "The University of Hong Kong (HKU), Hong Kong",
-      subtitle: "Master's in Computer Science",
-      logo_path: "hku-logo.png",
-      alt_name: "The University of Hong Kong (HKU)",
-      duration: "2022 - 2023",
-      descriptions: [
-        "⚡ I have taken varity of courses related to Advanced Algorithms and Data Structures, Security and Cryptography, etc.",
-        "⚡ Apart from this, I have done courses on Programming Languages and Compilers, Cloud Computing, Big Data, IoT",
-      ],
-      website_link: "https://hku.hk/",
-    },
+    // {
+    //   title: "The University of Hong Kong (HKU), Hong Kong",
+    //   subtitle: "Certificate in Full Stack Web Development",
+    //   logo_path: "hku-logo.png",
+    //   alt_name: "The University of Hong Kong (HKU)",
+    //   duration: "2021 - 2022",
+    //   descriptions: [
+    //     "⚡ HTML, CSS, and JavaScript",
+    //     "⚡ Front-end web development frameworks such as React and Angular",
+    //     "⚡ Back-end web development frameworks such as Node.js and Express",
+    //     "⚡ Database management using MongoDB and MySQL",
+    //     "⚡ Server-side scripting using PHP and Python",
+    //     "⚡ Web application security and authentication",
+    //     "⚡ Agile software development methodologies",
+    //     "⚡ Project management and collaboration tools",
+    //   ],
+    //   website_link: "https://hku.hk/",
+    // },
+    // {
+    //   title: "The University of Hong Kong (HKU), Hong Kong",
+    //   subtitle: "Master's in Computer Science",
+    //   logo_path: "hku-logo.png",
+    //   alt_name: "The University of Hong Kong (HKU)",
+    //   duration: "2022 - 2023",
+    //   descriptions: [
+    //     "⚡ I have taken varity of courses related to Advanced Algorithms and Data Structures, Security and Cryptography, etc.",
+    //     "⚡ Apart from this, I have done courses on Programming Languages and Compilers, Cloud Computing, Big Data, IoT",
+    //   ],
+    //   website_link: "https://hku.hk/",
+    // },
   ],
 };
 
@@ -521,38 +517,53 @@ const experience = {
     title: "Work Experience",
     experiences: [
       {
-        title: "Full Stack Developer Intern",
-        company: "The University of Hong Kong (HKU)",
-        company_url: "https://hku.hk/",
-        logo_path: "hku-logo.png",
-        alt_name: "The University of Hong Kong (HKU)",
-        duration: "(May, 2021 - March, 2022)",
-        location: "Remote",
+        title: "Full Stack Developer",
+        company: "Scopic (Remote) - Rutland, MA 01543, US",
+        company_url: "https://scopicsoftware.com/",
+        logo_path: "scopic-logo.png",
+        alt_name: "Scopic (Remote)",
+        duration: "(March 2020 - Current)",
         description:
-          "<li>I was responsible for developing and maintaining 3 web applications.</li><br>" +
-          "<li>I collaborated with a team of developers to design and implement new features, resulting in a 20% increase in user engagement.</li><br>" +
-          "<li>I also optimized the performance of existing applications, reducing page load times by 30%.</li><br>" +
-          "<li>In addition, I deployed a fresh authentication mechanism, leading to a 50% decrease in login inaccuracies.</li><br>" +
-          "<li>I was also responsible for conducting code reviews and providing feedback to other developers, resulting in a 15% improvement in code quality.</li><br>" +
-          "<li>Furthermore, I developed a new reporting system, allowing stakeholders to access real-time data, resulting in a 40% reduction in report generation time.</li>",
+          "<li>Enhanced hospitality website resulted in 50% in crease in bookings and 25% increase in traffic.</li><br>" +
+          "<li>Managed inventory system development for manufacturing client, resulting in 30% cost reduction and 20% order accuracy increase.</li><br>" +
+          "<li>Led inventory management system development for manufacturing client, resulting in 30% cost reduction and 20% boost in order accuracy.</li>",
         color: "#0071C5",
       },
       {
-        title: "Full Stack Developer",
-        company: "The University of Hong Kong (HKU)",
-        company_url: "https://hku.hk/",
-        logo_path: "hku-logo.png",
-        alt_name: "The University of Hong Kong (HKU)",
-        duration: "(April, 2021 - February, 2023)",
-        location: "Remote",
+        title: "Search Engineer",
+        company: "Go-Globe - Kwun Tong, Hong Kong",
+        company_url: "https://www.go-globe.com/",
+        logo_path: "go-globe-logo.png",
+        alt_name: "Go-Globe",
+        duration: "(April 2019 - March 2020)",
         description:
-          "<li>I led a team of 5 developers to build a web application that increased user engagement by 30% and reduced page load time by 50%.</li><br>" +
-          "<li>I agile practices to optimize the development workflow, leading to a 20% in project delivery rate.</li><br>" +
-          "<li>In addition, I developed a custom CMS that allowed content editors to update the website without any coding knowledge, decreasing the amount of time dedicated to content updates by 70%.</li><br>" +
-          "<li>I optimized the website's SEO, resulting in a 25% increase in organic traffic and a 15% increase in conversion rates.</li><br>" +
-          "<li>Furthermore, I implemented a responsive design that improved the user experience on mobile devices, resulting in a 40% increase in mobile traffic.</li><br>" +
-          "<li>I also integrated a chatbot that handled over 500 customer inquiries per day, dismising the workload of customer service representatives by 30%.</li>",
-        color: "#4285F4",
+          "<li>Designed and deployed Elasticsearch clusters for multiple clients, achieving 99.9% uptime and increasing search throughput by up to 200%.</li><br>" +
+          "<li>Implemented Elasticsearch for indexing and searching 1M+ records, resulting in a 75% decrease in search response time.</li>",
+        color: "#0071C5",
+      },
+      {
+        title: "Frontend Developer",
+        company: "Altitude Labs - Sheung Wan, Hong Kong",
+        company_url: "https://www.altitudelab.org/",
+        logo_path: "altitude-labs-logo.png",
+        alt_name: "Altitude Labs",
+        duration: "(May 2017 - April 2019)",
+        description:
+          "<li>40% more app downloads and 30% intensify in user engagement with React Native frontend.</li><br>" +
+          "<li>Boosted conversion rates by 25% and customer satisfaction by 20% through A/B testing and user feedback analysis.</li>",
+        color: "#0071C5",
+      },
+      {
+        title: "Web Developer",
+        company: "Fimmick - Kwun Tong, Hong Kong",
+        company_url: "https://www.fimmick.com/",
+        logo_path: "fimmick-logo.png",
+        alt_name: "Fimmick",
+        duration: "(March 2015 - May 2017)",
+        description:
+          "<li>Expanded sales by 20% and traffic by 15% through e-commerce website development.</li><br>" +
+          "<li>Collaborated with design team for user-friendly website, resulting in 25% decrease in bounce rate and 10% amplifies in session duration.</li>",
+        color: "#0071C5",
       },
     ],
   },
