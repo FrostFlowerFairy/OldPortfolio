@@ -522,7 +522,7 @@ const experience = {
         company_url: "https://scopicsoftware.com/",
         logo_path: "scopic-logo.png",
         alt_name: "Scopic (Remote)",
-        duration: "(March 2020 - Current)",
+        duration: "(May 2021 - March 2023)",
         description:
           "<li>Enhanced hospitality website resulted in 50% in crease in bookings and 25% increase in traffic.</li><br>" +
           "<li>Managed inventory system development for manufacturing client, resulting in 30% cost reduction and 20% order accuracy increase.</li><br>" +
@@ -535,7 +535,7 @@ const experience = {
         company_url: "https://www.go-globe.com/",
         logo_path: "go-globe-logo.png",
         alt_name: "Go-Globe",
-        duration: "(April 2019 - March 2020)",
+        duration: "(April 2019 - May 2021)",
         description:
           "<li>Designed and deployed Elasticsearch clusters for multiple clients, achieving 99.9% uptime and increasing search throughput by up to 200%.</li><br>" +
           "<li>Implemented Elasticsearch for indexing and searching 1M+ records, resulting in a 75% decrease in search response time.</li>",
