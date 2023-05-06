@@ -16,7 +16,7 @@ const greeting = {
   subTitle1: "Full Stack Developer.",
   subTitle2: "Life Long Learner.",
   subTitle: "Full Stack Developer, Life Long Learner.",
-  resumeLink: "https://drive.google.com/file/d/19suQy-dg2ijce-mvfOIl5N5owXkNYYWt/view?usp=share_link",
+  resumeLink: "https://drive.google.com/file/d/17NxTsZHXbNiLiSuE6HRQ8dBoTrG-N2Sa/view?usp=share_link",
   mail: "mailto:bowenmanuel48@gmail.com@gmail.com",
 };
 
