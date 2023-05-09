@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2fb8f96.css",
+    "main.js": "/static/js/main.b3dc5b0f.js",
+    "static/media/mail.gif": "/static/media/mail.b8b1eae025a861cda69a.gif",
+    "static/media/waving-hand.png": "/static/media/waving-hand.a720748e68c94f8795e8.png",
+    "static/media/hku-logo.png": "/static/media/hku-logo.de793bb5b54844ef02fa.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/portfolioProfileImage.png": "/static/media/portfolioProfileImage.0b93332092d2cf4f176a.png",
+    "static/media/GoogleSans-Italic.ttf": "/static/media/GoogleSans-Italic.40bb50bd202405745006.ttf",
+    "static/media/GoogleSans-MediumItalic.ttf": "/static/media/GoogleSans-MediumItalic.56d4f777a7997e5a10b3.ttf",
+    "static/media/GoogleSans-BoldItalic.ttf": "/static/media/GoogleSans-BoldItalic.d282e9c31d0f894a7f06.ttf",
+    "static/media/GoogleSans-Regular.ttf": "/static/media/GoogleSans-Regular.bec0591b6a291c3ca895.ttf",
+    "static/media/GoogleSans-Medium.ttf": "/static/media/GoogleSans-Medium.963c3e555aaada9ef8a9.ttf",
+    "static/media/GoogleSans-Bold.ttf": "/static/media/GoogleSans-Bold.d907e4bf3e32637a636e.ttf",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/gcp_logo.png": "/static/media/gcp_logo.63bb0649c9716d110b14.png",
+    "static/media/address_image.svg": "/static/media/address_image.3385d92e5e426e57a5b1.svg",
+    "static/media/go-globe-logo.png": "/static/media/go-globe-logo.3883053e9040a4634a9c.png",
+    "index.html": "/index.html",
+    "main.b2fb8f96.css.map": "/static/css/main.b2fb8f96.css.map",
+    "main.b3dc5b0f.js.map": "/static/js/main.b3dc5b0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2fb8f96.css",
+    "static/js/main.b3dc5b0f.js"
+  ]
+}
