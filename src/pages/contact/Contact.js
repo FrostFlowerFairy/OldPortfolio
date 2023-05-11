@@ -22,6 +22,7 @@ export default function Contact(props) {
                 className="profile-pic"
                 src={require(`../../assets/images/${ContactData["profile_image_path"]}`)}
                 alt=""
+                style={{borderRadius: '50%'}}
               />
             </div>
             <div className="contact-heading-text-div">
