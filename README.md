@@ -14,7 +14,7 @@
 
 <p align="center"> 
     <br />✧
-    <a href="#Launch the app">Quick Start</a>   ✧  
+    <a href="#Launch-the-app">Quick Start</a>   ✧  
     <a href="https://github.com/TyreseSong/TyreseSong_Full-Stack-Portfolio/issues">Report Bug</a>   ✧
     <a href="#Contact">Author</a>✧
 </p>
