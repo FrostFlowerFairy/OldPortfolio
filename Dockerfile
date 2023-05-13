@@ -1,4 +1,4 @@
-FROM node:14
+FROM node:16
 WORKDIR /app
 COPY build ./
 RUN npm i -g serve
