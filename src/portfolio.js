@@ -13,9 +13,9 @@ const greeting = {
   logo_name: "Tyrese Song",
   nickname: "Tyrese",
   full_name: "Tyrese Song",
-  subTitle1: "Full Stack Developer.",
+  subTitle1: "Full Stack Web Developer.",
   subTitle2: "Life Long Learner.",
-  subTitle: "Full Stack Developer, Life Long Learner.",
+  subTitle: "Full Stack Web Developer, Life Long Learner.",
   resumeLink: "https://drive.google.com/file/d/1iVHBC0U9BQFRZ27RnEUjmsNcG-Rg3Y0X/view?usp=share_link",
   mail: "mailto:bowenmanuel48@gmail.com@gmail.com",
 };
@@ -35,7 +35,7 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Having over 7 years of experience delivering more than 50+ web apps, which resulted in a 30% increase in revenue, expertise in leading and mentoring teams, front-end and back-end development, database design, and project management is possessed. ⚡",
+        "⚡ With 7+ years of experience in full stack development, there is a strong understanding of software development life cycle and agile methodologies, resulting in efficient project delivery and high-quality applications. ⚡",
       ],
       softwareSkills: [
         {
@@ -511,22 +511,22 @@ const experience = {
   title: "Work Experience",
   subtitle: "Work and Apprenticeship",
   description:
-    "I've over 2 years of experience as a full stack developer. I've worked on building products for multiple stakeholders in The University of Hong Kong (HKU) as well as my personal projects.",
+    "I've over 2 years of experience as a Full Stack Web Developer. I've worked on building products for multiple stakeholders in The University of Hong Kong (HKU) as well as my personal projects.",
   header_image_path: "experience.svg",
   sections: {
     title: "Work Experience",
     experiences: [
       {
-        title: "Full Stack Developer",
+        title: "Full Stack Web Developer",
         company: "Scopic (Remote) - Rutland, MA 01543, US",
         company_url: "https://scopicsoftware.com/",
         logo_path: "scopic-logo.png",
         alt_name: "Scopic (Remote)",
         duration: "(May 2021 - March 2023)",
         description:
-          "<li>Enhanced hospitality website resulted in 50% in crease in bookings and 25% increase in traffic.</li><br>" +
-          "<li>Managed inventory system development for manufacturing client, resulting in 30% cost reduction and 20% order accuracy increase.</li><br>" +
-          "<li>Led inventory management system development for manufacturing client, resulting in 30% cost reduction and 20% boost in order accuracy.</li>",
+          "<li>Led adoption of agile development methodology, leading to a 30% boost in project efficiency.</li><br>" +
+          "<li>Managed team of 5+ developers, delivering 15+ high-quality web applications on time and within budget.</li><br>" +
+          "<li>Educated and mentored inexperienced developers, leading to a 20% enhancement in team productivity.</li>",
         color: "#0071C5",
       },
       {
@@ -537,8 +537,9 @@ const experience = {
         alt_name: "Go-Globe",
         duration: "(April 2019 - May 2021)",
         description:
-          "<li>Designed and deployed Elasticsearch clusters for multiple clients, achieving 99.9% uptime and increasing search throughput by up to 200%.</li><br>" +
-          "<li>Implemented Elasticsearch for indexing and searching 1M+ records, resulting in a 75% decrease in search response time.</li>",
+          "<li>Developed and implemented personalized search feature, resulting in 25% increase in user satisfaction.</li><br>" +
+          "<li>Collaborated with developers to implement voice search, resulting in a 15% boost in mobile search usage.</li><br>" +
+          "<li>Conducted keyword research and optimized search results, resulting in 50% increase in organic traffic.</li>",
         color: "#0071C5",
       },
       {
@@ -549,8 +550,9 @@ const experience = {
         alt_name: "Altitude Labs",
         duration: "(May 2017 - April 2019)",
         description:
-          "<li>40% more app downloads and 30% intensify in user engagement with React Native frontend.</li><br>" +
-          "<li>Boosted conversion rates by 25% and customer satisfaction by 20% through A/B testing and user feedback analysis.</li>",
+          "<li>Joined forces with a team to design 5 e-commerce websites, earning $500k in revenue.</li><br>" +
+          "<li>Improved website accessibility resulting in a 30% increase in users with disabilities.</li><br>" +
+          "<li>Implemented SEO best practices resulting in a 40% increase in organic search traffic.</li>",
         color: "#0071C5",
       },
       {
@@ -561,8 +563,9 @@ const experience = {
         alt_name: "Fimmick",
         duration: "(March 2015 - May 2017)",
         description:
-          "<li>Expanded sales by 20% and traffic by 15% through e-commerce website development.</li><br>" +
-          "<li>Collaborated with design team for user-friendly website, resulting in 25% decrease in bounce rate and 10% amplifies in session duration.</li>",
+          "<li>Produced 5 WordPress extensions with 4-star ratings and more than 10,000+ downloads.</li><br>" +
+          "<li>Performed website evaluations for over 15 customers, leading to a 25% rise in conversions.</li><br>" +
+          "<li>Streamlined website loading times by 30% with optimization tactics.</li>",
         color: "#0071C5",
       },
     ],

@@ -116,7 +116,7 @@ function Header(props) {
                 Work Experience&nbsp;&nbsp;
               </NavLink>
             </li>
-            <li>
+            {/* <li>
               <NavLink
                 className={({ isActive }) =>
                   isActive ? "current-link" : "projects"
@@ -127,7 +127,7 @@ function Header(props) {
               >
                 Projects&nbsp;&nbsp;
               </NavLink>
-            </li>
+            </li> */}
             <li>
               <NavLink
                 className={({ isActive }) => (isActive ? "current-link" : "cr")}
