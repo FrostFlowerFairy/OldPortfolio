@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2fb8f96.css",
-    "main.js": "/static/js/main.0cf7b66c.js",
+    "main.css": "/static/css/main.45e10cf2.css",
+    "main.js": "/static/js/main.7374b39f.js",
     "static/media/tiger.jpg": "/static/media/tiger.31f94a93c83592b14974.jpg",
     "static/media/mail.gif": "/static/media/mail.b8b1eae025a861cda69a.gif",
     "static/media/waving-hand.png": "/static/media/waving-hand.a720748e68c94f8795e8.png",
@@ -19,11 +19,11 @@
     "static/media/address_image.svg": "/static/media/address_image.3385d92e5e426e57a5b1.svg",
     "static/media/go-globe-logo.png": "/static/media/go-globe-logo.3883053e9040a4634a9c.png",
     "index.html": "/index.html",
-    "main.b2fb8f96.css.map": "/static/css/main.b2fb8f96.css.map",
-    "main.0cf7b66c.js.map": "/static/js/main.0cf7b66c.js.map"
+    "main.45e10cf2.css.map": "/static/css/main.45e10cf2.css.map",
+    "main.7374b39f.js.map": "/static/js/main.7374b39f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2fb8f96.css",
-    "static/js/main.0cf7b66c.js"
+    "static/css/main.45e10cf2.css",
+    "static/js/main.7374b39f.js"
   ]
 }
