@@ -17,14 +17,14 @@ const greeting = {
   subTitle2: "Life Long Learner.",
   subTitle: "Full Stack Web Developer, Life Long Learner.",
   resumeLink: "https://drive.google.com/file/d/1iVHBC0U9BQFRZ27RnEUjmsNcG-Rg3Y0X/view?usp=share_link",
-  mail: "mailto:bowenmanuel48@gmail.com@gmail.com",
+  mail: "mailto:bowenmanuel48@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/TyreseSong",
   // linkedin: "https://www.linkedin.com/in/TyreseSong",
-  gmail: "bowenmanuel48@gmail.com@gmail.com",
+  gmail: "bowenmanuel48@gmail.com",
   // twitter: "https://twitter.com/TyreseSong",
 };
 
