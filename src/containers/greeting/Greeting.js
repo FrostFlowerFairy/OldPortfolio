@@ -51,7 +51,7 @@ export default function Greeting(props) {
                         `<span style="color: ${theme.accentColor}">${greeting.subTitle1}</span>`
                       )
                       .pauseFor(300)
-                      .deleteChars(21)
+                      .deleteChars(25)
                       .typeString(
                         `<span style="color: ${theme.accentColor}">${greeting.subTitle2}</span>`
                       )
@@ -68,7 +68,7 @@ export default function Greeting(props) {
                   rel="noopener noreferrer"
                   href={greeting.resumeLink}
                 >
-                  Résumé
+                  Resume
                 </a>
               </div>
             </div>
