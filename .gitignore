@@ -1,8 +1,9 @@
 node_modules/
-.cache/
+build/
 dist/
-.env
-.DS_Store
 coverage/
 .vscode/
+.cache/
+.env
+.DS_Store
 .firebase
