@@ -1,6 +1,12 @@
+# Build environment
+FROM node:16 AS build-env
+WORKDIR /app
+COPY package.json .
+RUN npm install --legacy-peer-deps
+
+# Application code
 FROM node:16
 WORKDIR /app
-COPY build ./
-RUN npm i -g serve
-EXPOSE 3000
-CMD ["serve", "-s"]
+COPY --from=build-env /app /app
+COPY . .
+CMD ["npm", "start"]
