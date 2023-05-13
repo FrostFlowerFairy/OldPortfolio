@@ -17,4 +17,4 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_FULL_STACK_PORTFOLIO_D1C2A }}'
           channelId: live
-          projectId: full-stack-portfolio-d1c2a
+          projectId: full-stack-web-portfolio
