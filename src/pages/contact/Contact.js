@@ -32,12 +32,12 @@ export default function Contact(props) {
               >
                 {ContactData["title"]}
               </h1>
-              <p
+              <div
                 className="contact-header-detail-text subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                {ContactData["description"]}
-              </p>
+                {ContactData["description"].split('\n').map((desc) => (<p key={desc}>{desc}</p>))}
+              </div>
               <SocialMedia page="contact" />
             </div>
           </div>

@@ -273,9 +273,9 @@ const skills = {
       title: "Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Experience hosting and managing websites",
-        "⚡ Experience with Continuous Integration",
+        "⚡ Experience working on multiple cloud platforms ⚡",
+        "⚡ Experience hosting and managing websites ⚡",
+        "⚡ Experience with Continuous Integration ⚡",
       ],
       softwareSkills: [
         {
@@ -373,8 +373,8 @@ const degrees = {
       alt_name: "The University of Hong Kong (HKU)",
       duration: "2011 - 2015",
       descriptions: [
-        "⚡ I have taken varity of courses related to Computer Programming and Data Structures, Algorithms, Human-Computer Interaction and User Experience Design, Software Engineering and Development Methodologies, and etc.",
-        "⚡ Apart from this, I have done courses on Database Systems and Data Management, Computer Networks and Distributed Systems, Artificial Intelligence and Machine Leaning",
+        "⚡ I have taken varity of courses related to Computer Programming and Data Structures, Algorithms, Human-Computer Interaction and User Experience Design, Software Engineering and Development Methodologies, and etc. ⚡",
+        "⚡ Apart from this, I have done courses on Database Systems and Data Management, Computer Networks and Distributed Systems, Artificial Intelligence and Machine Leaning. ⚡",
       ],
       website_link: "https://hku.hk/",
     },
@@ -511,7 +511,7 @@ const experience = {
   title: "Work Experience",
   subtitle: "Work and Apprenticeship",
   description:
-    "I've over 2 years of experience as a Full Stack Web Developer. I've worked on building products for multiple stakeholders in The University of Hong Kong (HKU) as well as my personal projects.",
+    "⚡ With 7+ years of experience in full stack development, there is a strong understanding of software development life cycle and agile methodologies, resulting in efficient project delivery and high-quality applications. ⚡",
   header_image_path: "experience.svg",
   sections: {
     title: "Work Experience",
@@ -524,9 +524,9 @@ const experience = {
         alt_name: "Scopic (Remote)",
         duration: "(May 2021 - March 2023)",
         description:
-          "<li>Led adoption of agile development methodology, leading to a 30% boost in project efficiency.</li><br>" +
-          "<li>Managed team of 5+ developers, delivering 15+ high-quality web applications on time and within budget.</li><br>" +
-          "<li>Educated and mentored inexperienced developers, leading to a 20% enhancement in team productivity.</li>",
+          "<li>⚡ Led adoption of agile development methodology, leading to a 30% boost in project efficiency. ⚡</li><br>" +
+          "<li>⚡ Managed team of 5+ developers, delivering 15+ high-quality web applications on time and within budget. ⚡</li><br>" +
+          "<li>⚡ Educated and mentored inexperienced developers, leading to a 20% enhancement in team productivity. ⚡</li>",
         color: "#0071C5",
       },
       {
@@ -537,9 +537,9 @@ const experience = {
         alt_name: "Go-Globe",
         duration: "(April 2019 - May 2021)",
         description:
-          "<li>Developed and implemented personalized search feature, resulting in 25% increase in user satisfaction.</li><br>" +
-          "<li>Collaborated with developers to implement voice search, resulting in a 15% boost in mobile search usage.</li><br>" +
-          "<li>Conducted keyword research and optimized search results, resulting in 50% increase in organic traffic.</li>",
+          "<li>⚡ Developed and implemented personalized search feature, resulting in 25% increase in user satisfaction. ⚡</li><br>" +
+          "<li>⚡ Collaborated with developers to implement voice search, resulting in a 15% boost in mobile search usage. ⚡</li><br>" +
+          "<li>⚡ Conducted keyword research and optimized search results, resulting in 50% increase in organic traffic. ⚡</li>",
         color: "#0071C5",
       },
       {
@@ -550,9 +550,9 @@ const experience = {
         alt_name: "Altitude Labs",
         duration: "(May 2017 - April 2019)",
         description:
-          "<li>Joined forces with a team to design 5 e-commerce websites, earning $500k in revenue.</li><br>" +
-          "<li>Improved website accessibility resulting in a 30% increase in users with disabilities.</li><br>" +
-          "<li>Implemented SEO best practices resulting in a 40% increase in organic search traffic.</li>",
+          "<li>⚡ Joined forces with a team to design 5 e-commerce websites, earning $500k in revenue. ⚡</li><br>" +
+          "<li>⚡ Improved website accessibility resulting in a 30% increase in users with disabilities. ⚡</li><br>" +
+          "<li>⚡ Implemented SEO best practices resulting in a 40% increase in organic search traffic. ⚡</li>",
         color: "#0071C5",
       },
       {
@@ -563,9 +563,9 @@ const experience = {
         alt_name: "Fimmick",
         duration: "(March 2015 - May 2017)",
         description:
-          "<li>Produced 5 WordPress extensions with 4-star ratings and more than 10,000+ downloads.</li><br>" +
-          "<li>Performed website evaluations for over 15 customers, leading to a 25% rise in conversions.</li><br>" +
-          "<li>Streamlined website loading times by 30% with optimization tactics.</li>",
+          "<li>⚡ Produced 5 WordPress extensions with 4-star ratings and more than 10,000+ downloads. ⚡</li><br>" +
+          "<li>⚡ Performed website evaluations for over 15 customers, leading to a 25% rise in conversions. ⚡</li><br>" +
+          "<li>⚡ Streamlined website loading times by 30% with optimization tactics. ⚡</li>",
         color: "#0071C5",
       },
     ],
@@ -781,7 +781,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "myphoto.jpg",
     description:
-      "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
+      "⚡ You can contact me at the places mentioned below. ⚡\n⚡ I will try to get back to you as fast as I can. ⚡",
   },
 };
 

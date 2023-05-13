@@ -30,7 +30,7 @@
 
 .greeting-text {
   margin-top: 110px;
-  font-size: 48px;
+  font-size: 64px;
   font-family: "Google Sans Bold";
 }
 
@@ -41,7 +41,6 @@
 }
 
 .greeting-text-div {
-  width: 600px;
   font-size: 40px;
   margin-bottom: 40px;
   display: inline-flex;

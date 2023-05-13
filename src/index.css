@@ -63,6 +63,13 @@ body {
   font: 19px / 23px Montserrat, "Montserrat", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  width: 100%;
+}
+
+#root {
+  min-width: 100vw;
+  /* height: 100%;
+  position: absolute; */
 }
 
 ::-webkit-scrollbar {
