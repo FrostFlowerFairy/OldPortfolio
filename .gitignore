@@ -4,6 +4,6 @@ dist/
 coverage/
 .vscode/
 .cache/
-.env
+# .env
 .DS_Store
 .firebase
