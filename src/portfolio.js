@@ -546,7 +546,7 @@ const experience = {
         title: "Frontend Developer",
         company: "Altitude Labs - Sheung Wan, Hong Kong",
         company_url: "https://www.altitudelab.org/",
-        logo_path: "altitude-labs-logo.png",
+        logo_path: "altitudelabs-logo.png",
         alt_name: "Altitude Labs",
         duration: "(May 2017 - April 2019)",
         description:
