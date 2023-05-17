@@ -373,7 +373,7 @@ const degrees = {
       alt_name: "The University of Hong Kong (HKU)",
       duration: "2011 - 2015",
       descriptions: [
-        "⚡ I have taken varity of courses related to Computer Programming and Data Structures, Algorithms, Human-Computer Interaction and User Experience Design, Software Engineering and Development Methodologies, and etc. ⚡",
+        "⚡ I have taken variety of courses related to Computer Programming and Data Structures, Algorithms, Human-Computer Interaction and User Experience Design, Software Engineering and Development Methodologies, and etc. ⚡",
         "⚡ Apart from this, I have done courses on Database Systems and Data Management, Computer Networks and Distributed Systems, Artificial Intelligence and Machine Leaning. ⚡",
       ],
       website_link: "https://hku.hk/",
