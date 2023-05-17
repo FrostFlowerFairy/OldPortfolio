@@ -19,7 +19,7 @@
     <a href="#Contact">Author</a>✧
 </p>
 
-<h3 align="center"><a href="https://full-stack-web-portfolio-tyresesong.netlify.app/"><strong>« View My Portfolio Here »</strong></a></h3>
+<h3 align="center"><a href="https://full-stack-web-portfolio.netlify.app/"><strong>« View My Portfolio Here »</strong></a></h3>
 
 ## Launch the app
 
