@@ -9,10 +9,10 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hi",
-  title2: " I'm Tyrese Song",
-  logo_name: "Tyrese Song",
+  title2: " I'm Tyrese Jin",
+  logo_name: "Tyrese Jin",
   nickname: "Tyrese",
-  full_name: "Tyrese Song",
+  full_name: "Tyrese Jin",
   subTitle1: "Full Stack Web Developer.",
   subTitle2: "Life Long Learner.",
   subTitle: "Full Stack Web Developer, Life Long Learner.",
@@ -22,10 +22,10 @@ const greeting = {
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/TyreseSong",
-  // linkedin: "https://www.linkedin.com/in/TyreseSong",
+  github: "https://github.com/TyreseJin",
+  // linkedin: "https://www.linkedin.com/in/TyreseJin",
   gmail: "bowenmanuel48@gmail.com",
-  // twitter: "https://twitter.com/TyreseSong",
+  // twitter: "https://twitter.com/TyreseJin",
 };
 
 const skills = {
@@ -645,7 +645,7 @@ const projects = {
       id: "project-0",
       name: "Crafty Commerce",
       url: "https://crafty-commerce.vercel.app/",
-      repoUrl: "https://github.com/TyreseSong/crafty-commerce",
+      repoUrl: "https://github.com/TyreseJin/crafty-commerce",
       description:
         "Crafty Commerce is a full stack e-commerce web application that allows you to purchase different categories of product online. You can apply filters accordingly and find your favourite products in crafty commerce. You can pay with debit/credit cards and in just few click your product will be delivered.",
       languages: [
@@ -691,7 +691,7 @@ const projects = {
       id: "project-1",
       name: "Tikkaway",
       url: "https://restaurant-app-bceb0.web.app/",
-      repoUrl: "https://github.com/TyreseSong/tikkaway",
+      repoUrl: "https://github.com/TyreseJin/tikkaway",
       description:
         "Tikkaway is a full stack restaurant web application that allows you to order food online. It has wide variety of categories on the menu like Chicken, Curry, Rice, Fish, Fruits, Icecreams, Soft Drinks etc.",
       languages: [
@@ -721,7 +721,7 @@ const projects = {
       id: "project-2",
       name: "MEAN Agency",
       url: "",
-      repoUrl: "https://github.com/TyreseSong/mean-agency",
+      repoUrl: "https://github.com/TyreseJin/mean-agency",
       description:
         "Mean Agency is a full stack service provider web application that allows you to provide services to other companies.",
       languages: [
@@ -754,8 +754,8 @@ const projects = {
     {
       id: "project-3",
       name: "Countdown Timer",
-      url: "https://countdown-timer-TyreseSong.vercel.app/",
-      repoUrl: "https://github.com/TyreseSong/countdown-timer",
+      url: "https://countdown-timer-TyreseJin.vercel.app/",
+      repoUrl: "https://github.com/TyreseJin/countdown-timer",
       description: "A Simple React App for countdown to new year using hooks.",
       languages: [
         {
@@ -780,7 +780,7 @@ const projects = {
       id: "project-4",
       name: "Portfolio",
       url: "",
-      repoUrl: "https://github.com/TyreseSong/TyreseSong_Full-Stack-Portfolio",
+      repoUrl: "https://github.com/TyreseJin/TyreseJin_Full-Stack-Portfolio",
       description: "You are watching it right now 😉.",
       languages: [
         {
@@ -813,7 +813,7 @@ const projects = {
       id: "project-5",
       name: "SpaceX Capsules",
       url: "https://spacex-capsules.vercel.app/",
-      repoUrl: "https://github.com/TyreseSong/spacex-capsules",
+      repoUrl: "https://github.com/TyreseJin/spacex-capsules",
       description:
         "A React application which shows you the filtered spaceX capsules data.",
       languages: [
