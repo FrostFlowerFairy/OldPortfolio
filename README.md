@@ -1,4 +1,4 @@
-<h1 align="center">Tyrese Jin's Full Stack Web Portfolio</h1>
+<h1 align="center">Tyrese's Full Stack Web Portfolio</h1>
 
 <h2 align="center">A Personal portfolio webapp.</h2>
 
@@ -7,7 +7,7 @@
 <p align="center"> 
     <br />✧
     <a href="#Launch-the-app">Quick Start</a>   ✧  
-    <a href="https://github.com/TyreseJin/TyreseJin_Full-Stack-Web-Portfolio/issues">Report Bug</a>   ✧
+    <a href="https://github.com/FrostFlowerFairy/OldPortfolio/issues">Report Bug</a>   ✧
     <a href="#Contact">Author</a>✧
 </p>
 
@@ -18,8 +18,8 @@
 Use the following command to run the app in your localhost.
 
 ```
-$ git clone https://github.com/TyreseJin/TyreseJin_Full-Stack-Web-Portfolio.git
-$ cd TyreseJin_Full-Stack-Web-Portfolio
+$ git clone https://github.com/FrostFlowerFairy/OldPortfolio.git
+$ cd Portfolio
 $ npm install --legacy-peer-deps
 $ npm start
 ```
@@ -28,6 +28,4 @@ $ npm start
 
 If you want to contact me, you can reach me through below handles.
 
-<!-- [![linkedin](https://img.shields.io/badge/TyreseJin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitsharma002/) -->
-
-[![Github](https://img.shields.io/badge/TyreseJin-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/TyreseJin/)
+[![Github](https://img.shields.io/badge/FrostFlowerFairy-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/FrostFlowerFairy/)

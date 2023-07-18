@@ -1,14 +1,14 @@
 {
-  "short_name": "TyreseJin",
-  "name": "TyreseJin",
+  "short_name": "Tyrese",
+  "name": "Tyrese",
   "icons": [
-  {
-   "src": "\/favicon.png",
-   "sizes": "400x400",
-   "type": "image\/png",
-   "density": "4.0"
-  }
- ],
+    {
+      "src": "/favicon.png",
+      "sizes": "400x400",
+      "type": "image/png",
+      "density": "4.0"
+    }
+  ],
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
